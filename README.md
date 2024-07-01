@@ -3,7 +3,10 @@
 Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.notion.so/qawolf/QA-Wolf-QA-Engineer-Remote-156203a1e476459ea5e6ffca972d0efe) role! We appreciate your interest and look forward to seeing what you come up with.
 
 ## Quick Links
-- [Setup, Usage, and Testing Instructions](#hacker-news-article-csv-generator) 
+- [Setup, Usage, and Testing Instructions](#hacker-news-article-csv-generator)
+- [Assignment Instructions](#instructions)
+
+[Why QA Wolf](https://github.com/hlsamuel00/qa_wolf/assets/96807396/a308c0b6-a80a-4052-9ee0-a913862b64d1)
 
 ## Instructions
 
