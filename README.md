@@ -111,19 +111,23 @@ node index.js
 ```
 2. Once the script is run, a prompt will appear in the console requesting a file name. 
 3. Ensure a file name is provided that ends with `.csv` and press `Enter`.
-    - Example: ```bash
+    - Example:
+    ```bash
     What would you like to name the file? data.csv
     ```
 4. A status message will appear in the console
-    - Example: ```bash
+    - Example:
+    ```bash
     Navigating to webpage and extracting HTML...
     ```
 5. Another status message will appear in the console
-    - Example: ```bash
+    - Example:
+    ```bash
     Parsing HTML and extracting article data...
     ```
 4. A confirmation message will appear in the console advising the set number of articles have been written to the file name provided
-    - Example: ```bash
+    - Example:
+    ```bash
     Top 10 articles have been written to data.csv.
     ```
 5. The file has been saved to the root directory.
